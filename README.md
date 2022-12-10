@@ -1,10 +1,8 @@
 # Limitless App
-
 ***
 
 * ## About the app
-Limitless app is e-commerce android app that was implemented through Eva Pharma hackathon (Eva Hackathon 2022)
-
+  Limitless app is e-commerce android app that was implemented through Eva Pharma hackathon (Eva Hackathon 2022)
 ***
 
 * ## Technologies Used
@@ -14,7 +12,6 @@ Limitless app is e-commerce android app that was implemented through Eva Pharma 
   * MVVM Pattern
   * Solid Principles
   * Google Maps
-
 ***
 
 * ## Screen Shots
