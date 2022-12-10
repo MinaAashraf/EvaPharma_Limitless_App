@@ -1,19 +1,23 @@
 # Limitless App
 
-## About the app
+***
+
+* ## About the app
 Limitless app is e-commerce android app that was implemented through Eva Pharma hackathon (Eva Hackathon 2022)
 
+***
 
-## Technologies Used
-Kotlin Coroutines
-Dagger Hilt
-Retrofit
-MVVM Pattern
-Solid Principles
-Google Maps
+* ## Technologies Used
+  * Kotlin Coroutines
+  * Dagger Hilt
+  * Retrofit
+  * MVVM Pattern
+  * Solid Principles
+  * Google Maps
 
+***
 
-## Screen Shots
+* ## Screen Shots
 
 ![Home Screen](https://user-images.githubusercontent.com/48159614/206841998-6121ab95-e290-4644-a736-21a5b03fe8d4.jpg)
 
