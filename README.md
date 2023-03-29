@@ -15,6 +15,13 @@
 
 ## Screen Shots
 
+|  |  |
+| ------------- | ------------- |
+| <img src="https://user-images.githubusercontent.com/48159614/206841998-6121ab95-e290-4644-a736-21a5b03fe8d4.jpg" width="300" height="616">|<img src="https://user-images.githubusercontent.com/48159614/206842079-80be3d1c-a7db-4de8-9be8-07c5303a340d.jpg" width="300" height="616">|
+
+
+
+
 <img src="https://user-images.githubusercontent.com/48159614/206841998-6121ab95-e290-4644-a736-21a5b03fe8d4.jpg" width="300" height="616">
 
 <img src="https://user-images.githubusercontent.com/48159614/206842079-80be3d1c-a7db-4de8-9be8-07c5303a340d.jpg" width="300" height="616">
